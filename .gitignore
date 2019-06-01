@@ -50,3 +50,13 @@ Carthage/Build
 
 build
 Output
+
+.vs
+
+[Bb]in
+obj
+Debug
+
+Sample Code/UpgradeLog.htm
+
+Sample Code/packages/*
